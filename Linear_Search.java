@@ -1,12 +1,3 @@
-/**
- * 
- */
-package Week0;
-
-/**
- * @author aniru
- *
- */
 
 import java.util.Scanner;
 
