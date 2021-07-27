@@ -6,7 +6,7 @@ public class q2 {
 	static int Binary(int arr[], int low, int high, int data) {
 		
 		if(low<high) {
-			int mid = (high - low)/2;
+			int mid = low + (high - low)/2;
 			
 			if(arr[mid] == data) {
 				return mid;
