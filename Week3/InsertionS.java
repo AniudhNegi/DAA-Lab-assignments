@@ -46,5 +46,6 @@ public class InsertionS {
 			insertionS(arr);
 			System.out.println("");
 		}
+	}
 
 }
